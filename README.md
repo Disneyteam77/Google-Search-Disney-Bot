@@ -59,6 +59,7 @@ python3 main.py
 
 ## Credits
 
-- [Doreamon Fans](https://github.com/doreamonfans1)
+- [Doreamon Fans](https://t.me/doreamonfans1)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Google API](https://api.abirhasan.wtf/google)
+- [FayasNoushad](https://t.me/thefayas)
