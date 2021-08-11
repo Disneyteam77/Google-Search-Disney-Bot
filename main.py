@@ -22,11 +22,11 @@ Bot = Client(
 START_TEXT = """Hello {}
 I Am Disney Team google search bot.
 > `I can search from google. Use me in inline.`
-Made with In By @doreamonfans1"""
+Made with ❤ In 🇮🇳 By @doreamonfans1"""
 
 JOIN_BUTTON = [
     InlineKeyboardButton(
-        text=' Updates Channel ',
+        text='👨‍🔧 Updates Channel 👨‍🔧',
         url='https://telegram.me/disneygrou'
     )
 ]
