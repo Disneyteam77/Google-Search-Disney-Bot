@@ -1,4 +1,6 @@
-  # Author: disneyteam (https://github.com/disneyteam77) (@doreamonfans1)
+
+  
+# Author: Disneyteam (https://github.com/disneyteam77) (@doreamonfans1)
 
 import os
 import requests
@@ -18,13 +20,13 @@ Bot = Client(
 
 
 START_TEXT = """Hello {}
-I Disney Team  google search bot.
+I Am Disney Team google search bot.
 > `I can search from google. Use me in inline.`
-Made With ❤ In 🇮🇳 By @doreamonfans1"""
+Made with In By @doreamonfans1"""
 
 JOIN_BUTTON = [
     InlineKeyboardButton(
-        text='👨‍🔧 Updates Channel 👨‍🔧',
+        text=' Updates Channel ',
         url='https://telegram.me/disneygrou'
     )
 ]
